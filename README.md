@@ -16,31 +16,27 @@ To assess subjective quality in video reconstruction, we conduct comparisons bet
 
 To assess subjective quality in Cartoon-Style Control, we conduct comparisons between our proposed CartoonCodec scheme, VVC+DiffCLIP, VVC+NADA, VVC+DeltaEdit, and VVC+FRESCO at similar bit rates. Note that the cartoon-style control task includes five cases: Disney Princess, Pixar, Sketch, Zombie, and Anime Painting. For clearer observation of the experimental results, the corresponding videos are provided in downloadable MP4 format.
 
-#### Disney Princess Control Case (Similar Bit Rates)
-
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/07dc3be0-95d9-456f-9008-55a1ec6e45c8)](https://github.com/user-attachments/assets/07dc3be0-95d9-456f-9008-55a1ec6e45c8)
-
 #### Pixar Control Case (Similar Bit Rates)
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/39e7cf71-83b5-4759-bce2-0f530866f4c7)](https://github.com/user-attachments/assets/39e7cf71-83b5-4759-bce2-0f530866f4c7)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/64a6b279-14b0-41e3-9728-5345c42b7357)](https://github.com/user-attachments/assets/64a6b279-14b0-41e3-9728-5345c42b7357)
 
 #### Sketch Control Case (Similar Bit Rates)
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/ca7cf5fd-257e-4765-8d7c-5775b96544f4)](https://github.com/user-attachments/assets/ca7cf5fd-257e-4765-8d7c-5775b96544f4)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/4ca4afc0-8df7-45fc-83bd-c042c0b7c1d6)](https://github.com/user-attachments/assets/4ca4afc0-8df7-45fc-83bd-c042c0b7c1d6)
 
 #### Zombie Control Case (Similar Bit Rates)
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/167aa752-aa88-448e-b0b4-752edbab766f)](https://github.com/user-attachments/assets/167aa752-aa88-448e-b0b4-752edbab766f)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/90d23741-3a1e-4d62-bd32-faaed6dbd7a7)](https://github.com/user-attachments/assets/90d23741-3a1e-4d62-bd32-faaed6dbd7a7)
 
 #### Anime Painting Control Case (Similar Bit Rates)
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/173620ab-4d8d-4457-a4c1-e020055b4610)](https://github.com/user-attachments/assets/173620ab-4d8d-4457-a4c1-e020055b4610)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/7900be01-674c-449e-8387-4a3c43472550)](https://github.com/user-attachments/assets/7900be01-674c-449e-8387-4a3c43472550)
 
 ## 3. Visual results on the VoxCeleb testing dataset (Similar Bit Rates)
 
 To assess our CartoonCodec scheme in more realistic scenarios, we selected testing sequences from the VoxCeleb dataset, an in-the-wild dataset that naturally includes complex background conditions. Specifically, we compare our CartoonCodec with VVC on the video reconstruction task at similar bit rates. In addition, we evaluate our CartoonCodec on the cartoon-style control task at similar bit rates. To facilitate clearer observation of the experimental results, the corresponding videos are provided in downloadable MP4 format.
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/6270b9ee-d3b6-4712-ae28-e669cbc68648)](https://github.com/user-attachments/assets/6270b9ee-d3b6-4712-ae28-e669cbc68648)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/f676af32-c8d6-4c9b-8cda-4a5434755ea0)](https://github.com/user-attachments/assets/f676af32-c8d6-4c9b-8cda-4a5434755ea0)
 
 ## 4. Video demonstration of our CartoonCodec’s runtime performance
 
@@ -52,7 +48,7 @@ To facilitate clearer observation of the experimental results, the corresponding
 
 [![IMAGE ALT TEXT](https://github.com/user-attachments/assets/2b86f149-3054-4f40-a83c-42c60dc46b0b)](https://github.com/user-attachments/assets/2b86f149-3054-4f40-a83c-42c60dc46b0b)
 
-## 6. Visual results of the Ablation study (Fig. 11 of the initial manuscript)
+## 6. Visual results of the Ablation study
 
 To analyze (1) the visual examples of three variants of our CartoonCodec scheme and (2) the disentangled poses and expressions of these variants on the Pixar control case, we present the following results. For clearer observation of the experimental results, the corresponding videos are provided in downloadable MP4 format.
 
